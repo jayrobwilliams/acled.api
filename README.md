@@ -14,6 +14,9 @@ status](https://travis-ci.com/chris-dworschak/acled.api.svg?branch=master)](http
 [![CRANlogs](http://cranlogs.r-pkg.org/badges/grand-total/acled.api)](https://CRAN.R-project.org/package=acled.api)
 <!-- badges: end -->
 
+NOTE: the dev version of this package moved to my GitLab 
+page @https://gitlab.com/chris-dworschak.
+
 This small package provides functionality to access and manage the
 application programming interface (API) of the [Armed Conflict Location
 & Event Data Project (ACLED)](https://acleddata.com/), while requiring a
